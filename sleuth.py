@@ -3,10 +3,10 @@ def SleuthInput(SRR):
     cond1 = "2dpi"
     cond2 = "6dpi"
     #initial line in file
-    sleuthIN.write('sample'+ '\t' + 'condition' + '\t' + 'path' + '\n')
-    #based on SRR number, write condition and path to outnput file
+    sleuthIN.write('sample'+ '\t' + 'condition' + '\n')
+    #based on SRR number, write condition to outnput file
     for i in SRR:
         if int(i[3:])%2==0:
-            sleuthIN.write(str(i)+ '\t' + cond1 + '\t'+ str(path)+ '\n')
+            sleuthIN.write(str(i)+ '\t' + cond1 + '\n')
         else:
-            sleuthIN.write(str(i)+ '\t' + cond2 + '\t'+ str(path)+ '\n')
+            sleuthIN.write(str(i)+ '\t' + cond2 + '\n')
