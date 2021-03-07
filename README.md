@@ -14,15 +14,15 @@
   - .fastq files (test datasets)
 ## How to run:
 - clone Repo 
-''' 
+```
 git clone https://github.com/salshamary/mini-Project.git 
-''' 
+```
 
 - Call script:
 
-'''
+```
 Python3 miniProject.py SRR1 SRR2 SRR3 SRR4 
-'''
+```
 
 ## Questions
 1. We would like to compare HCMV transcriptomes 2- and 6-days post-infection (dpi). First, retrieve the following
