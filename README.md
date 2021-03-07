@@ -1,5 +1,5 @@
 # mini-Project
-## Software Requirements
+## Software 
   - Python
   - Kallisto
   - R
