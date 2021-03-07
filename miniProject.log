@@ -1,0 +1,8 @@
+The HVFC Genome (EF999921) has 168 CDS.
+Donor 3 (6dpi) had 2259287.0 read pairs before Bowtie2 filtering and 1744101.0 pairs after.
+Donor 3 (6dpi) had 2004530.0 read pairs before Bowtie2 filtering and 1488833.0 pairs after.
+Donor 3 (6dpi) had 2730258.0 read pairs before Bowtie2 filtering and 2382996.0 pairs after.
+Donor 3 (6dpi) had 2476889.0 read pairs before Bowtie2 filtering and 1500834.0 pairs after.
+There are 54 contigs > 1000 bp in the assembly.
+There are 195620 bp in the assembly.
+SRA values tested: ['SRR5660030', 'SRR5660033', 'SRR5660044', 'SRR5660045']
