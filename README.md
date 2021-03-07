@@ -14,6 +14,10 @@
   - .fastq files (test datasets)
 ## How to run:
 - clone Repo 
+''' 
+git clone https://github.com/salshamary/mini-Project.git 
+''' 
+
 - Call script:
 
 '''
